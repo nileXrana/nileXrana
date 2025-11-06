@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./images/upper.svg)
 
 I love coding in Javascript and Java :snake:.I'm a freelancer and occassionally participate in hackathons.
 
