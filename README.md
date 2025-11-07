@@ -52,14 +52,9 @@ const nileXrana = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nileXrana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileXrana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div> -->
 
 ---
 
@@ -72,9 +67,5 @@ const nileXrana = {
 ---
 
 <div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
