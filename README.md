@@ -15,10 +15,10 @@ const nileXrana = {
     location: "INDIA 🇮🇳",
     code: ["TypeScript", "JavaScript", "Java"],
     technologies: {
-        frontend: ["React.js", "Next.js", "TailwindCSS", "Framer", "Shadcn UI"],
-        backend: ["Node.js", "Express", "RESTful APIs"],
+        frontend: ["Next.js", "React.js", "TailwindCSS", "Framer", "Shadcn UI", "Redux"],
+        backend: ["Node.js", "Express", "RESTful APIs", "WebSockets"],
         databases: ["MongoDB", "Mongoose (ODM)", "Prisma (ORM)", "PostgreSQL", "MySQL"],
-        devOps: ["Docker"],
+        devOps: ["Nginx", "Docker"],
         tools: ["Git", "GitHub", "VS Code", "Compass", "Postman"]
     },
     currentFocus: "Turning ideas into scalable applications 🌟",
