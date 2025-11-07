@@ -1,27 +1,53 @@
-![alt text](./images/upper.svg)
+## 👋 Hey, I'm Nilesh
 
-I love coding in Javascript and Java :snake:.I'm a freelancer and occassionally participate in hackathons.
+### 🚀 Full Stack Developer  
+Crafting fast, scalable and modern web experiences.
 
-⚡ Fun fact:<br>
-🔭 I’m currently working on computer vision<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning Rust<br>💬 Ask me about python, JavaScript<br>⚡ Fun fact your face!!<br>💼 I have experience working on both frontend and backend projects <br> 🔭I love building scalable and user-friendly applications.
+---
 
-### Let's Connect :coffee:
+## 🖼️ Banner  
+![Banner](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/master/banners/cover-image.png)
 
-<p align="center">
-	<a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://twitter.com/codewithaddy"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
-	<a href="https://www.linkedin.com/in/konhito/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-    <a href="https://www.codechef.com/users/konhito"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="codechef"/></a>
-</p>
+---
 
-## ![alt text](./images/bottom.svg)
+## ⚡ Tech Stack  
+✅ **Next.js**  
+✅ **MERN Stack**  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/konhito/konhito/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/konhito/konhito/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/konhito/konhito/output/github-snake.svg" />
-</picture>
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Current Goal  
+Build something that genuinely impacts people.
+
+---
+
+## ✨ About Me  
+- Passionate about clean UI and smooth UX  
+- Love building full-stack apps end-to-end  
+- Always experimenting and shipping new ideas  
+
+---
+
+## 🛠️ Tools I Use  
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,js,ts,tailwind,vscode,git,github" />
+
+---
+
+## 📈 GitHub Stats  
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nilexrana&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilexrana&layout=compact&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🎉 Fun Animation  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+---
+
+## 🔗 Connect  
+**Portfolio:** Coming soon...
