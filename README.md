@@ -36,7 +36,7 @@ Build something that genuinely impacts people.
 ## 📈 GitHub Stats  
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nileshrana&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nilexrana&theme=dark&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrana&layout=compact&theme=dark&hide_border=true" />
 
