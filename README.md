@@ -84,26 +84,6 @@ const nileXrana = {
 
 ---
 
-### 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://novatorem-nile.vercel.app/api/spotify)](https://open.spotify.com/user/nileXrana)
-
-</div>
-
----
-
-### 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
