@@ -12,16 +12,16 @@
 
 ```typescript
 const nileXrana = {
-    location: "Earth 🌍",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    location: "India 🇮🇳",
+    code: ["JavaScript", "TypeScript", "C++", "Java"],
     technologies: {
         frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
         backend: ["Node.js", "Express", "Django", "Spring"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker"],
         tools: ["Git", "VS Code", "Figma", "Postman"]
     },
-    currentFocus: "Building scalable applications & learning AI/ML",
+    currentFocus: "Turning ideas into scalable applications 🌟",
     funFact: "I debug with console.log and I'm proud of it 😎"
 };
 ```
