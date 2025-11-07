@@ -52,13 +52,14 @@ const nileXrana = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nileXrana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nileXrana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileXrana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
