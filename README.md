@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=nileXrana&color=6C63FF&style=for-the-badge&abbreviated=true)](https://github.com/nileXrana)
-
-</div>
-
 ---
 
 ### 🎯 About Me
