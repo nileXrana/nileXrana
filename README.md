@@ -19,7 +19,7 @@ const nileXrana = {
         backend: ["Node.js", "Express", "RESTful APIs", "WebSockets"],
         databases: ["MongoDB", "Mongoose (ODM)", "Prisma (ORM)", "PostgreSQL", "MySQL"],
         devOps: ["Nginx", "Docker"],
-        tools: ["Git", "GitHub", "VS Code", "Compass", "Postman"]
+        tools: ["Git", "GitHub", "VS Code", "Compass", "Postman", "Vercel"]
     },
     currentFocus: "Turning ideas into scalable applications 🌟",
     funFact: "I debug with console.log and I'm proud of it 😎"
