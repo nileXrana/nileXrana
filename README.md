@@ -52,9 +52,9 @@ const nileXrana = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana"/>
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileXrana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nileXrana&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
