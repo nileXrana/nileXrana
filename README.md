@@ -52,7 +52,9 @@ const nileXrana = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <!-- Streak stats image temporarily disabled because the hosted service (github-readme-streak-stats.herokuapp.com) is currently returning errors or is unavailable. To restore: self-host the streak-stats app (Vercel) or update this URL to a working endpoint. -->
+  <!-- Original: <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /> -->
+  <img src="https://img.shields.io/badge/Current%20streak-unavailable-6C63FF?style=for-the-badge" alt="Streak unavailable" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileXrana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
