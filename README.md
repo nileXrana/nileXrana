@@ -13,13 +13,13 @@
 ```typescript
 const nileXrana = {
     location: "INDIA 🇮🇳",
-    code: ["JavaScript", "TypeScript", "Java"],
+    code: ["TypeScript", "JavaScript", "Java"],
     technologies: {
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "Express"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        frontend: ["React.js", "Next.js", "TailwindCSS", "Framer", "Shadcn UI"],
+        backend: ["Node.js", "Express", "RESTful APIs"],
+        databases: ["MongoDB", "Mongoose (ODM)", "Prisma (ORM)", "PostgreSQL", "MySQL"],
         devOps: ["Docker"],
-        tools: ["Git", "VS Code", "Figma", "Postman"]
+        tools: ["Git", "GitHub", "VS Code", "Compass", "Postman"]
     },
     currentFocus: "Turning ideas into scalable applications 🌟",
     funFact: "I debug with console.log and I'm proud of it 😎"
