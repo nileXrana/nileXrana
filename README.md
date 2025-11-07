@@ -13,7 +13,7 @@
 ```typescript
 const nileXrana = {
     location: "India 🇮🇳",
-    code: ["JavaScript", "TypeScript", "C++", "Java"],
+    code: ["JavaScript", "TypeScript", "Java"],
     technologies: {
         frontend: ["React", "Next.js", "TailwindCSS"],
         backend: ["Node.js", "Express"],
