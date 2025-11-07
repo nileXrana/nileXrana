@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hey,I'm-Nilesh👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=I'm-Nilesh👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Open+Source+Enthusiast+%E2%9C%A8;" alt="Typing SVG" />
 
@@ -15,8 +15,8 @@ const nileXrana = {
     location: "India 🇮🇳",
     code: ["JavaScript", "TypeScript", "C++", "Java"],
     technologies: {
-        frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
-        backend: ["Node.js", "Express", "Django", "Spring"],
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Express"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         devOps: ["Docker"],
         tools: ["Git", "VS Code", "Figma", "Postman"]
