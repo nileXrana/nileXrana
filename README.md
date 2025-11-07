@@ -1,53 +1,126 @@
-## 👋 Hey, I'm Nilesh
-
-### 🚀 Full Stack Developer  
-Crafting fast, scalable and modern web experiences.
-
----
-
-## 🖼️ Banner  
-![Banner](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/master/banners/cover-image.png)
-
----
-
-## ⚡ Tech Stack  
-✅ **Next.js**  
-✅ **MERN Stack**  
-
----
-
-## 🎯 Current Goal  
-Build something that genuinely impacts people.
-
----
-
-## ✨ About Me  
-- Passionate about clean UI and smooth UX  
-- Love building full-stack apps end-to-end  
-- Always experimenting and shipping new ideas  
-
----
-
-## 🛠️ Tools I Use  
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,js,ts,tailwind,vscode,git,github" />
-
----
-
-## 📈 GitHub Stats  
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nilexrana&theme=dark&hide_border=true" />
+# 👋 Hey, I'm nileXrana
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilexrana&layout=compact&theme=dark&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Open+Source+Enthusiast+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=nileXrana&color=6C63FF&style=for-the-badge&abbreviated=true)](https://github.com/nileXrana)
 
 </div>
 
 ---
 
-## 🎉 Fun Animation  
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+### 🎯 About Me
+
+```typescript
+const nileXrana = {
+    location: "Earth 🌍",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    technologies: {
+        frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
+        backend: ["Node.js", "Express", "Django", "Spring"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        tools: ["Git", "VS Code", "Figma", "Postman"]
+    },
+    currentFocus: "Building scalable applications & learning AI/ML",
+    funFact: "I debug with console.log and I'm proud of it 😎"
+};
+```
 
 ---
 
-## 🔗 Connect  
-**Portfolio:** Coming soon...
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nileXrana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileXrana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileXrana&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nileXrana&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nileXrana&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🎵 Currently Vibing To
+
+<div align="center">
+  
+[![Spotify](https://novatorem-nile.vercel.app/api/spotify)](https://open.spotify.com/user/nileXrana)
+
+</div>
+
+---
+
+### 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nileXrana)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nileXrana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nileXrana.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nileXrana.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
